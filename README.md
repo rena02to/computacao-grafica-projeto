@@ -11,4 +11,5 @@
     <li>Aplicar recursos que promovem realismo, como texturas, sombras, iluminação, etc.;</li>
     <li>Proporcionar algum tipo de interação com os modelos por meio do teclado e/ou mouse.</li>
   </ul>
-</div>
+Link do arquivo .blend (acesso restrito aos e-mails do IC-UFAL): https://drive.google.com/drive/u/0/folders/1JLpU5ykeyBMTrkCG_Cb5k3iZc2jQ9oDa
+</div

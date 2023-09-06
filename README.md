@@ -10,6 +10,6 @@
     <li>Aplicar tranformações em relação aos objetos(escala, rotação e etc...);</li>
     <li>Utilizar de técnicas como textura, sombras, iluminação e etc...</li>
     <li>Proporcionar a interação entre o teclado/mouse;</li>
-    <li>Proporcionar a navegação do usuário usando teclado e mouse.</li>
+    <li>Proporcionar a navegação do usuário usando teclado/mouse.</li>
   </ul>
 </div>
